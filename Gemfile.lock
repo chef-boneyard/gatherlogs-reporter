@@ -27,7 +27,7 @@ GEM
       concurrent-ruby (~> 1.0)
     chef-utils (17.3.48)
       concurrent-ruby
-    clamp (1.3.2)
+    clamp (1.5.0)
     coderay (1.1.3)
     concurrent-ruby (1.1.9)
     diff-lcs (1.4.4)
