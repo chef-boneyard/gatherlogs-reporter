@@ -40,7 +40,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_development_dependency 'rubocop'
   spec.add_development_dependency 'simplecov'
-  spec.add_dependency 'mixlib-shellout', '~> 2.4'
+  spec.add_dependency 'mixlib-shellout', '>= 2.4', '< 4.0'
   spec.add_dependency 'puma'
   spec.add_dependency 'sinatra', '~> 2.0'
   spec.add_dependency 'string_utf8', '~> 0.1'
